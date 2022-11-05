@@ -1,0 +1,4 @@
+Sheila Monica
+FTDS-013
+
+URL Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
