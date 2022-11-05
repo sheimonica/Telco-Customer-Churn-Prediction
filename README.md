@@ -1,5 +1,5 @@
 # Telco Customer Churn Predition
-- By Sheila Monica- [LinkedIn](https://www.linkedin.com/in/sheila-monica/)
+- By Sheila Monica - [LinkedIn](https://www.linkedin.com/in/sheila-monica/)
 
 ### Dataset Source
 handwritten signatures dari Kaggle Dataset
